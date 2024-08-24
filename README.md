@@ -46,5 +46,5 @@ A needs to pay B:5.0
 F needs to pay D:5.0  
         
 ![Problem Statement](https://github.com/Rahulkc5/CashFlow-Algorithm-Splitwise/blob/main/2.png)
-![Problem Statement](
-![Problem Statement](
+![Problem Statement](https://github.com/Rahulkc5/CashFlow-Algorithm-Splitwise/blob/main/3.png)
+![Problem Statement](https://github.com/Rahulkc5/CashFlow-Algorithm-Splitwise/blob/main/4.png)
